@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8800d6&height=80&section=header"/>
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , @lmNotGod</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,I'm @lmNotGod</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=lmNotGod&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="View Profil"/>
